@@ -20,11 +20,11 @@
 	<div class="ke-switch-con">
 		<div class="item">
 			内容1
-		</ul>
+		</div>
 
 		<div class="item">
 			内容2
-		</ul>
+		</div>
 
 	</div>
 </div>
