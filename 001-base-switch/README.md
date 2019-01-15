@@ -7,6 +7,11 @@
 **children**, 所以要注意子元素中 类`item`的使用
 
 
+
+### 示例
+
+[点击打开测试链接](https://demo.jsjiaocheng.com/001-base-switch/)
+
 ### html 结构
 
 ```html
